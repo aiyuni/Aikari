@@ -9,6 +9,7 @@ The full source code for the Comp 1111 Demonstration is found here: https://gith
 This JDA dependency jar is required for the the demonstration source code: [download it here](https://github.com/aiyuni/Aikari/blob/master/desktop/botartifact/JDA-3.5.0_327-withDependencies.jar)
 
 ### Platypus
-Built with Maven. 
+Platypus (Aikari) is built with Maven. 
+`!commands` to see commands.
 
 
